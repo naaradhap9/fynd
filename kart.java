@@ -5,7 +5,7 @@
   <groupId>com.kart</groupId>
   <artifactId>kart</artifactId>
   <packaging>war</packaging>
-  <version>1.50-SNAPSHOT</version>
+  <version>1.05.20-SNAPSHOT</version>
   <name>kart Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
